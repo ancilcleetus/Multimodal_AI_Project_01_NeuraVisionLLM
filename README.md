@@ -39,7 +39,7 @@
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## Future Improvements Envisioned:
+## Future Improvements Planned:
 
 1. Deployment in my personal website [NeuraVisionLLM](http://ancilcleetus.com/Personal-Projects/Multimodal-AI-Projects/Multimodal_AI_Project_01_NeuraVisionLLM)
 
